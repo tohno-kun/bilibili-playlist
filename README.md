@@ -28,7 +28,6 @@
 ![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/4.png)
 5. 在B站中使用该功能制作播放列表
 ![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/5.png)
-![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/6.png)
 
 ### 使用简介
 
