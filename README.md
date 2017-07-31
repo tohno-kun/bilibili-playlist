@@ -16,7 +16,19 @@
 
 对于原装chrome跳警告的同学们致歉，禁警告的方法很多，google/baidu一下即可，这里就不描述了。
 
+### 安装图示
 
+1. 打开chrome扩展程序页，并将crx文件拖进此页面安装
+![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/1.png)
+2. 若无法安装的情况下，将crx文件解压成文件夹，打开开发者模式，加载已解压的扩展程序，选中文件夹
+![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/2.png)
+3. 浏览器右上角显示扩展图标，左键进入"配置扩展"（或右键进入“选项”）
+![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/3.png)
+4. 阅读扩展使用简介，或左侧进入设置页导入数据
+![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/4.png)
+5. 在B站中使用该功能制作播放列表
+![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/5.png)
+![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/6.png)
 
 ### 使用简介
 
