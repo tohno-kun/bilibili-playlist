@@ -1,3 +1,9 @@
+### 如何安装
+
+下载compressed.crx文件，类chrome的浏览器中，进入扩展添加页，添加进去即可。
+
+[download it](https://github.com/ToonoLam/bilibili-playlist/raw/master/compressed.crx)
+
 ### 使用简介
 
 ## 访问B站视频时
