@@ -2,13 +2,12 @@
 
 ### 如何安装
 
-下载compressed.crx文件，类chrome的浏览器中，进入扩展添加页，添加进去即可。
+[点此下载dist.crx](https://github.com/ToonoLam/bilibili-playlist/raw/master/dist.crx)，类chrome的浏览器中，进入扩展添加页，添加进去即可。
 
-[download it](https://github.com/ToonoLam/bilibili-playlist/raw/master/compressed.crx)
 
 #### 无法安装或chrome宣告“禁用非chrome商店扩展程序”
 
-使用解压软件（推荐7z）右键解压已下载的compressed.crx。
+使用解压软件（推荐7z）右键解压已下载的dist.crx。
 
 进入[chrome扩展程序安装页](chrome://extensions/)，打开开发者模式，点击“加载已解压的扩展程序…”，找到刚解压的包，导入即可。
 
@@ -20,7 +19,7 @@
 
 ### 安装图示
 
-1. 打开chrome扩展程序页，并将crx文件拖进此页面安装
+1. 打开chrome扩展程序页，并将crx文件拖进此页面安装（若为默认浏览器，直接双击crx文件即可）
 ![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/1.png)
 2. 若无法安装的情况下，将crx文件解压成文件夹，打开开发者模式，加载已解压的扩展程序，选中文件夹
 ![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/introduction/2.png)
