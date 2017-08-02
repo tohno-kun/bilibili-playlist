@@ -73,3 +73,7 @@
 - 开放第三方登录与列表云同步
 - 提供搜索/上传/下载用户制作的列表，方便分享
 - 提供手机端支持（通过yandex等可扩展的手机浏览器）
+
+### 鸣谢
+
+代码中引入了[jimmywarting](https://github.com/jimmywarting)的[FileSaver.js](https://github.com/tohno-kun/FileSaver.js)，以实现各浏览器下h5的文件封包，保证兼容性。
