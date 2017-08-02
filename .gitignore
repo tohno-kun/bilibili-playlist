@@ -1,5 +1,6 @@
 dist
 dev
+icons
 dist.pem
 gulpfile.js
 package.json

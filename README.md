@@ -2,7 +2,9 @@
 
 ### 如何安装
 
-[点此下载dist.crx](https://github.com/ToonoLam/bilibili-playlist/raw/master/dist.crx)，类chrome的浏览器中，进入扩展添加页，添加进去即可。
+#### 请安装最新的浏览器以保证所有功能正常使用
+
+[点此下载dist.crx](https://github.com/ToonoLam/bilibili-playlist/raw/master/dist.crx)，类chrome的浏览器中（360、QQ等浏览器的极速模式），进入扩展添加页，添加进去即可。
 
 
 #### 无法安装或chrome宣告“禁用非chrome商店扩展程序”
