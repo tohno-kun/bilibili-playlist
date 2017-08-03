@@ -32,6 +32,22 @@
 5. 在B站中使用该功能制作播放列表
 ![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/5.png)
 
+### 手机端支持（通过yandex等可扩展的手机浏览器）
+
+1. 下载并解压[zip文件](https://github.com/ToonoLam/bilibili-playlist/raw/master/dist.zip)（或电脑直接解压crx文件）到手机某个指定目录下。
+2. 打开yandex浏览器，地址栏输入：“chrome://extensions”，回车
+3. 打开“开发者模式”，加载“已解压的扩展程序”，进入刚解压的目录，选中manifest.json文件即可加载进去。
+4. 访问 https://tohno-kun.github.io/，下载需要的列表文件，在扩展的设置中导入。
+5. 重点！在手机访问该扩展时，必须右下打开“桌面模式”使用！
+
+##### 效果如图：
+
+- 竖屏显示：
+![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/shu.png)
+
+- 横屏显示：
+![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/heng.png)
+
 ### 使用简介
 
 #### 访问B站视频时
@@ -74,7 +90,6 @@
 - 添加指定用户收藏夹直接制作成列表的功能
 - 开放第三方登录与列表云同步
 - 提供搜索/上传/下载用户制作的列表，方便分享
-- 提供手机端支持（通过yandex等可扩展的手机浏览器）
 
 ### 鸣谢
 
