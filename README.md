@@ -37,7 +37,7 @@
 1. 下载并解压[zip文件](https://github.com/ToonoLam/bilibili-playlist/raw/master/dist.zip)（或电脑直接解压crx文件）到手机某个指定目录下。
 2. 打开yandex浏览器，地址栏输入：“chrome://extensions”，回车
 3. 打开“开发者模式”，加载“已解压的扩展程序”，进入刚解压的目录，选中manifest.json文件即可加载进去。
-4. 访问 https://tohno-kun.github.io/，下载需要的列表文件，在扩展的设置中导入。
+4. 访问 [Download Page](https://tohno-kun.github.io/)，下载需要的列表文件，在扩展的设置中导入。
 5. 重点！在手机访问该扩展时，必须右下打开“桌面模式”使用！
 
 ##### 效果如图：
