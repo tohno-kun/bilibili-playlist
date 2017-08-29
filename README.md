@@ -24,7 +24,7 @@ PC：
 
 #### 请安装最新的浏览器以保证所有功能正常使用
 
-[点此下载dist.crx](https://github.com/ToonoLam/bilibili-playlist/raw/master/dist.crx)，类chrome的浏览器中（360、QQ等浏览器的极速模式），进入扩展添加页，添加进去即可。
+[点此下载dist.crx](https://github.com/tohno-kun/bilibili-playlist/raw/master/dist.crx)，类chrome的浏览器中（360、QQ等浏览器的极速模式），进入扩展添加页，添加进去即可。
 
 
 #### 无法安装或chrome宣告“禁用非chrome商店扩展程序”
@@ -42,19 +42,19 @@ PC：
 ### 安装图示
 
 1. 打开chrome扩展程序页，并将crx文件拖进此页面安装（若为默认浏览器，直接双击crx文件即可）
-![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/1.png)
+![image](https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/intro_pic/1.png)
 2. 若无法安装的情况下，将crx文件解压成文件夹，打开开发者模式，加载已解压的扩展程序，选中文件夹
-![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/2.png)
+![image](https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/intro_pic/2.png)
 3. 浏览器右上角显示扩展图标，左键进入"配置扩展"（或右键进入“选项”）
-![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/3.png)
+![image](https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/intro_pic/3.png)
 4. 阅读扩展使用简介，或左侧进入设置页导入数据
-![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/4.png)
+![image](https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/intro_pic/4.png)
 5. 在B站中使用该功能制作播放列表
-![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/5.png)
+![image](https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/intro_pic/5.png)
 
 ### 手机端支持（通过yandex等可扩展的手机浏览器）
 
-1. 下载并解压[zip文件](https://github.com/ToonoLam/bilibili-playlist/raw/master/dist.zip)（或电脑直接解压crx文件）到手机某个指定目录下。
+1. 下载并解压[zip文件](https://github.com/tohno-kun/bilibili-playlist/raw/master/dist.zip)（或电脑直接解压crx文件）到手机某个指定目录下。
 2. 打开yandex浏览器，地址栏输入：“chrome://extensions”，回车
 3. 打开“开发者模式”，加载“已解压的扩展程序”，进入刚解压的目录，选中manifest.json文件即可加载进去。
 4. 访问 [Download Page](https://tohno-kun.github.io/)，下载需要的列表文件，在扩展的设置中导入。
@@ -63,10 +63,10 @@ PC：
 ##### 效果如图：
 
 - 竖屏显示：
-![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/shu.png)
+![image](https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/intro_pic/shu.png)
 
 - 横屏显示：
-![image](https://raw.githubusercontent.com/ToonoLam/bilibili-playlist/master/intro_pic/heng.png)
+![image](https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/intro_pic/heng.png)
 
 ### 使用简介
 
