@@ -1,4 +1,4 @@
-# crx安装文件最新更新日期：2017-8-24
+# crx安装文件最新更新日期：2017-9-2
 
 ## 欢迎将自己制作的列表发我邮箱（toonolam@gmail.com），制作完整优秀的列表，将放在[Download Page](https://tohno-kun.github.io/bilibili-playlist/download-page/)，方便更多人使用。
 
