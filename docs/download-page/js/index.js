@@ -1,17 +1,32 @@
-$('#install-button').on("click", function() {
-	console.log("is clicked");
-    if (chrome.app.isInstalled) {
-        console.log("已存在");
-    } else {
-        chrome.webstore.install("https://chrome.google.com/webstore/detail/fnfkcnlalnhnkdlglnbpdhdacphcnlgd",
-            function() {
-                alert("恭喜你，Chrome Extension安装成功");
-            },
-            function(err) {
-                alert("抱歉，Chrome Extension安装失败");
-            });
+(function($){
+  var e = $('#install-button')
+    ,originalText = e.html()
+    ,itemURL = $('link[rel=chrome-webstore-item]').attr('href')
+    ,isChrome = /chrom(e|ium)/.test(navigator.userAgent.toLowerCase());
+  checkAndSetButton();
+  e.click(function(){
+    e.html('正在安装...').attr('disabled',true);
+    chrome.webstore.install(
+      itemURL
+      ,function(){
+        e.html('安装成功！').attr('disabled',true);
+      }
+      ,function(){
+        e.html(originalText).attr('disabled',false);
+      }
+    );
+  });
+  function checkAndSetButton(){
+    if(isChrome){
+      if (typeof chrome !== "undefined" && typeof chrome.app !== "undefined" && chrome.app.isInstalled) {
+        e.html('已安装').attr('disabled',true);
+      }
+    }else{
+      e.html('只适用于Chrome浏览器').attr('disabled',true);
     }
-});
+
+  }
+})(jQuery);
 
 
 var url = "https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/lists/";
