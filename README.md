@@ -1,4 +1,8 @@
-# crx安装文件最新更新日期：2017-9-2
+# 安装访问：[Download Page](https://tohno-kun.github.io/bilibili-playlist/download-page/)，最新更新日期：2017-10-05
+
+## 目前扩展已发布至chrome应用商店
+
+[点击访问chrome应用商店](https://chrome.google.com/webstore/detail/fnfkcnlalnhnkdlglnbpdhdacphcnlgd)
 
 ## 欢迎将自己制作的列表发我邮箱（toonolam@gmail.com），制作完整优秀的列表，将放在[Download Page](https://tohno-kun.github.io/bilibili-playlist/download-page/)，方便更多人使用。
 
@@ -25,19 +29,6 @@ PC：
 #### 请安装最新的浏览器以保证所有功能正常使用
 
 [点此下载dist.crx](https://github.com/tohno-kun/bilibili-playlist/raw/master/dist.crx)，类chrome的浏览器中（360、QQ等浏览器的极速模式），进入扩展添加页，添加进去即可。
-
-
-#### 无法安装或chrome宣告“禁用非chrome商店扩展程序”
-
-使用解压软件（推荐7z）右键解压已下载的dist.crx。
-
-进入[chrome扩展程序安装页](chrome://extensions/)，打开开发者模式，点击“加载已解压的扩展程序…”，找到刚解压的包，导入即可。
-
-#### **tips：**
-
-通过该方法添加的扩展程序，每次chrome重启时，将跳出警告，嫌烦的同学们，如果使用的是greenchrome安装的chrome就幸福了，可以轻松禁掉开发者模式的警告。
-
-对于原装chrome跳警告的同学们致歉，禁警告的方法很多，google/baidu一下即可，这里就不描述了。
 
 ### 安装图示
 
@@ -116,8 +107,8 @@ PC：
 
 - ~~添加指定用户收藏夹直接制作成列表的功能~~ (已完成)
 - ~~手机端支持（通过yandex等可扩展的手机浏览器）~~ (已完成)
+- ~~发布至chrome应用商店~~ (已完成)
 - 添加指定用户频道直接制作成列表的功能
-- 发布至chrome应用商店
 - 开放第三方登录与列表云同步
 - 提供搜索/上传/下载用户制作的列表，方便分享
 

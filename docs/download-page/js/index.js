@@ -20,6 +20,11 @@
     if(isChrome){
       if (typeof chrome !== "undefined" && typeof chrome.app !== "undefined" && chrome.app.isInstalled) {
         e.html('已安装').attr('disabled',true);
+      } else {
+      	console.log("判断是否安装时失败");
+      	console.log("chrome: " + chrome);
+      	console.log("chrome.app: " + chrome.app);
+      	console.log("chrome.app.isInstalled: " + chrome.app.isInstalled);
       }
     }else{
       e.html('只适用于Chrome浏览器').attr('disabled',true);
@@ -28,6 +33,15 @@
   }
 })(jQuery);
 
+
+$('#clip').on("click", function(){
+	var range = document.createRange();
+	range.selectNode(document.getElementById('clip'));
+	var selection = window.getSelection();
+	if(selection.rangeCount > 0) selection.removeAllRanges();
+	selection.addRange(range);
+	document.execCommand('copy');
+});
 
 var url = "https://raw.githubusercontent.com/tohno-kun/bilibili-playlist/master/lists/";
 
