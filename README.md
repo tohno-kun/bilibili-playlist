@@ -1,3 +1,5 @@
+# 因本人工作原因不再更新该插件，目前已失效，有需求的朋友可以发起issues
+
 # 安装访问：[Download Page](https://tohno-kun.github.io/bilibili-playlist/download-page/)，最新更新日期：2017-11-21
 
 ## 目前扩展已发布至chrome应用商店
